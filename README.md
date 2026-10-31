@@ -1,2 +1,2 @@
 
-#index.html Murli Edit - Digital Store for Thumbnail Packs and Editing Resources.
+#index.html murli-edit - Digital Store for Thumbnail Packs and Editing Resources.
